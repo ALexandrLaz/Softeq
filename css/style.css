@@ -1,0 +1,9 @@
+.conteiner p:last-child {
+  color: red;
+  background-color: black;
+}
+body > p {
+  color: chartreuse;
+  text-transform: uppercase;
+  font-style: italic;
+}
